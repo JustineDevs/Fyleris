@@ -1,0 +1,10 @@
+packages:
+- apps/dashboard
+- apps/control-plane
+- packages/core-domain
+- packages/sdk
+- infra/vercel
+- infra/render
+- docs
+prefer-workspace-packages-with-private:
+- true

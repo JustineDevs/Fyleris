@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "name": "fyrelis-workspace",
+  "version": "0.1.0",
+  "packageManager": "pnpm@8.x.x",
+  "workspaces": [
+    "apps/dashboard",
+    "apps/control-plane",
+    "packages/core-domain",
+    "packages/sdk",
+    "infra/vercel",
+    "infra/render",
+    "docs",
+    "ignore/**",
+    "ignore/docs/design-brain/**"
+  ],
+  "scripts": {
+    "build": "pnpm -w build",
+    "lint": "pnpm -w lint",
+    "format": "pnpm -w format",
+    "test": "pnpm -w test",
+    "dev": "pnpm -w dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}

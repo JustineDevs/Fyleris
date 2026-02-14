@@ -1,0 +1,90 @@
+# Fyrelis Third-Party Documentation Links
+
+## Postgres & RLS
+
+- PostgreSQL main docs:
+  https://www.postgresql.org/docs/
+
+- Row Level Security docs (Access Control chapter):
+  https://www.postgresql.org/docs/current/ddl-rowsecurity.html
+
+## Supabase (managed Postgres + Auth)
+
+- Supabase docs home:
+  https://supabase.com/docs
+
+- Postgres / database section:
+  https://supabase.com/docs/guides/database
+
+- Auth overview:
+  https://supabase.com/docs/guides/auth
+
+- RLS with Supabase:
+  https://supabase.com/docs/guides/auth/row-level-security
+
+## Redis (cache, rate limiting, queues)
+
+- Redis documentation home:
+  https://redis.io/docs/latest/
+
+- Data types & commands index:
+  https://redis.io/commands/
+
+- Redis Streams / pub-sub:
+  https://redis.io/docs/latest/develop/data-types/streams/
+
+## Hosting: Render & Fly.io
+
+- Render deployment docs home:
+  https://render.com/docs
+
+- Deploying on Render:
+  https://render.com/docs/deploys
+
+- Fly.io docs home:
+  https://fly.io/docs/
+
+- Quick "deploy with fly" example:
+  https://fly.io/docs/hands-on/
+
+## Stripe (billing, subscriptions, metered usage)
+
+- Stripe API docs home:
+  https://stripe.com/docs/api
+
+- Stripe billing/subscriptions overview:
+  https://stripe.com/docs/billing/subscriptions/overview
+
+- Webhooks (for plan changes, usage events):
+  https://stripe.com/docs/webhooks
+
+## GitHub
+
+- GitHub REST API v3 docs:
+  https://docs.github.com/en/rest
+
+- GitHub Actions (for CI/CD):
+  https://docs.github.com/en/actions
+
+## Next.js
+
+- Next.js documentation:
+  https://nextjs.org/docs
+
+- App Router documentation:
+  https://nextjs.org/docs/app
+
+## TypeScript
+
+- TypeScript documentation:
+  https://www.typescriptlang.org/docs/
+
+## TailwindCSS
+
+- TailwindCSS documentation:
+  https://tailwindcss.com/docs
+
+## shadcn/ui
+
+- shadcn/ui documentation:
+  https://ui.shadcn.com/docs

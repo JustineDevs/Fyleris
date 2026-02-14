@@ -1,0 +1,17 @@
+{
+  "name": "@fyrelis/sdk",
+  "version": "0.1.0",
+  "private": true,
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "echo 'no tests yet'"
+  },
+  "dependencies": {
+    "@fyrelis/core-domain": "*"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
